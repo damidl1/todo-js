@@ -135,3 +135,11 @@ function orderByDate(){
   render2();
 
 }
+
+
+
+
+
+
+//1) aggiungere il tasto cancella su ogni todo
+//2) aggiungere la possibilità di aggiungere todo alla lista tramite una input e un bottone aggiungi 

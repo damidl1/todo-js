@@ -28,5 +28,3 @@ class Manager{
 }
 
 
-// creare tasto cancella che richiama la funzione delete to do 
-// creare input di tipo text e tasto aggiungi e nel momento che l'utente clicca aggiungi andrà a controllare se non è una stringa vuota e lo aggiunge alla lista dei todo
