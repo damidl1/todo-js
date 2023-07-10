@@ -24,6 +24,8 @@ class Manager{
     addTodoWithTitle(title){
        const newTodo = new Todo(title);
        this.addToDo(newTodo);
+
+       render();
     }
 }
 
